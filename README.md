@@ -31,8 +31,8 @@ Passionate about technology and on a dynamic journey to enhance my skills, I'm c
 [![UBUNTU](https://skillicons.dev/icons?i=ubuntu&theme=light)](https://skillicons.dev)
 [![WINDOWS](https://skillicons.dev/icons?i=windows&theme=light)](https://skillicons.dev)
 
-- 🐧 Linux (Ubuntu) – primary OS for DevOps practice
-- 🪟 Windows 11 – daily use & tooling
+- 🐧 Linux (Ubuntu) – Used for DevOps practice
+- 🪟 Windows 11 – Used for daily use
 
 
 # 📊 GitHub Stats:

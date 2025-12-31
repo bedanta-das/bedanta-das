@@ -12,7 +12,7 @@ Passionate about technology and on a dynamic journey to enhance my skills, I'm c
 
 # 💻 Tech Stack:
 [![AWS](https://skillicons.dev/icons?i=aws&theme=light)](https://skillicons.dev) 
-[![GCP](https://skillicons.dev/icons?i=gcp&theme=light)](https://skillicons.dev) 
+[![GCP](https://skillicons.dev/icons?i=gcp&theme=dark)](https://skillicons.dev) 
 [![AZURE](https://skillicons.dev/icons?i=azure&theme=light)](https://skillicons.dev) 
 [![GIT](https://skillicons.dev/icons?i=git&theme=light)](https://skillicons.dev) 
 [![KUBERNETES](https://skillicons.dev/icons?i=kubernetes&theme=light)](https://skillicons.dev) 

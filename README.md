@@ -6,7 +6,6 @@
 
 Passionate about technology and on a dynamic journey to enhance my skills, I'm currently immersed in AWS, Linux, Networking.Gearing up to make a mark in the Devops Domain.Eager to kickstart my career as a fresher, I'm actively seeking opportunities to apply my knowledge and contribute to innovative projects.
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bedanta-das) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bgbtbm2001@gmail.com) 
 
@@ -18,7 +17,7 @@ Passionate about technology and on a dynamic journey to enhance my skills, I'm c
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gitbedanta&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=gitbedanta&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=gitbedanta&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -26,4 +25,8 @@ Passionate about technology and on a dynamic journey to enhance my skills, I'm c
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=gitbedanta&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+---
+[![](https://visitcount.itsvg.in/api?id=gitbedanta&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ---

@@ -18,7 +18,7 @@ Passionate about technology and on a dynamic journey to enhance my skills, I'm c
 [![KUBERNETES](https://skillicons.dev/icons?i=kubernetes&theme=light)](https://skillicons.dev) 
 [![DOCKER](https://skillicons.dev/icons?i=docker&theme=light)](https://skillicons.dev) 
 [![VIM](https://skillicons.dev/icons?i=vim&theme=dark)](https://skillicons.dev) 
-[![AmazonDynamoDB](https://skillicons.dev/icons?i=dynamodb&theme=light)](https://skillicons.dev)
+[![AmazonDynamoDB](https://skillicons.dev/icons?i=dynamodb&theme=dark)](https://skillicons.dev)
 [![MySQL](https://skillicons.dev/icons?i=mysql&theme=light)](https://skillicons.dev) 
 [![GitLab](https://skillicons.dev/icons?i=gitlab&theme=dark)](https://skillicons.dev)
 [![GitHub Actions](https://skillicons.dev/icons?i=githubactions&theme=light)](https://skillicons.dev)

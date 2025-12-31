@@ -29,7 +29,7 @@ Passionate about technology and on a dynamic journey to enhance my skills, I'm c
 
 ## 🖥️ Operating System
 
-- 🐧 Linux (Ubuntu) – primary OS for DevOps practice
+[![UBANTU](https://skillicons.dev/icons?i=ubantu&theme=dark)](https://skillicons.dev) – primary OS for DevOps practice
 - 🪟 Windows 11 – daily use & tooling
 
 

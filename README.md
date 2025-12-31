@@ -46,7 +46,7 @@ Passionate about technology and on a dynamic journey to enhance my skills, I'm c
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
+## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=gitbedanta&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---

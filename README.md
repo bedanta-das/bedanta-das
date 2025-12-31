@@ -43,7 +43,7 @@ Passionate about technology and on a dynamic journey to enhance my skills, I'm c
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=gitbedanta&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo

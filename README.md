@@ -27,6 +27,12 @@ Passionate about technology and on a dynamic journey to enhance my skills, I'm c
 [![Python](https://skillicons.dev/icons?i=python&theme=dark)](https://skillicons.dev)
 [![NGINX](https://skillicons.dev/icons?i=nginx&theme=dark)](https://skillicons.dev)
 
+## 💻 Operating System
+
+- 🐧 Linux (Ubuntu) – primary OS for DevOps practice
+- 🪟 Windows 11 – daily use & tooling
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=gitbedanta&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=gitbedanta&theme=dark&hide_border=false)<br/>

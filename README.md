@@ -25,11 +25,7 @@ Passionate about technology and on a dynamic journey to enhance my skills, I'm c
 [![Terraform](https://skillicons.dev/icons?i=terraform&theme=light)](https://skillicons.dev)
 [![C++](https://skillicons.dev/icons?i=cpp&theme=dark)](https://skillicons.dev)
 [![Python](https://skillicons.dev/icons?i=python&theme=dark)](https://skillicons.dev)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) 
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) 
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) 
+[![NGINX](https://skillicons.dev/icons?i=nginx&theme=dark)](https://skillicons.dev) 
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) 
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 # 📊 GitHub Stats:

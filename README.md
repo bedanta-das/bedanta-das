@@ -43,11 +43,11 @@ Passionate about technology and on a dynamic journey to enhance my skills, I'm c
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bedanta-das&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=gitbedanta&theme=radical&no-frame=true&no-bg=false&margin-w=4)<br/>
+![](https://github-profile-trophy.vercel.app/?username=bedanta-das&theme=radical&no-frame=true&no-bg=false&margin-w=4)<br/>
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=gruvbox)<br/>
 <br/>
 
 ## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=gitbedanta&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=bedanta-das&limit=5&theme=dark&combine_all_yearly_contributions=true)

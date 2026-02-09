@@ -46,6 +46,7 @@ Passionate about technology and on a dynamic journey to enhance my skills, I'm c
 ![](https://github-trophies.vercel.app/?username=bedanta-das)
 [![trophy](https://github-profile-trophy.vercel.app/?username=bedanta-das&theme=onedark)](https://github.com/bedanta-das/github-profile-trophy)
 [![trophy](https://github-profile-trophy.vercel.app/?username=bedanta-das)](https://github.com/bedanta-das/github-profile-trophy)
+![](https://github-contributor-stats.vercel.app/api?username=bedanta-das&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=gruvbox)<br/>
